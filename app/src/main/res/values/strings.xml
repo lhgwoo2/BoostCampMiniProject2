@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">맛집리스트</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <!-- 탭 이름 -->
+    <string name="tab_distance_order">거리순</string>
+    <string name="tab_popular_order">인기순</string>
+    <string name="tab_lastest_order">최신순</string>
+
+
+    <!-- 카드뷰에 넣을 데이터 -->
+    <!-- 첫 아이템-->
+    <string name="item_title_one">꿀맛 음식점</string>
+    <string name="item_contents_one">꿀막걸리가 인기메뉴고 맛있는 음식을 저렴하게 즐길 수 있는 꿀맛 음식점</string>
+
+    <!-- 두번째 아이템-->
+    <string name="item_title_two">삼교리동치미막국수</string>
+    <string name="item_contents_two">막국수를 비빔으로 먹을지 물로 먹을지 고객이 만들어 먹는 삼교리동치미막국수 입니다.</string>
+
+    <!-- 첫 아이템-->
+    <string name="item_title_three">보쌈꿀맛</string>
+    <string name="item_contents_three">보쌈이 꿀맛인 음식점, 안온사람은 있어도 한번만 온사람은 없다.</string>
+
+    <!-- 첫 아이템-->
+    <string name="item_title_forth">철반볶음집</string>
+    <string name="item_contents_forth">철판볶음이 완전 꿀맛입니다. 즐거운 시간 보내십쇼.</string>
+
+    <!-- 첫 아이템-->
+    <string name="item_title_five">김밥천지</string>
+    <string name="item_contents_five">김밥이 천지인 음식점 완전 꿀맛</string>
+
+
+    <string name="action_settings">Settings</string>
+</resources>
